@@ -1,0 +1,80 @@
+<!doctype html>
+<html>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+<head>
+    <title id>Ligia Ligeira Brazilian Cleaning</title>
+    <link rel ="stylesheet" href="style.css">
+</head>
+    
+<body>
+    <header>
+     <div class="logo"><img src="Images/logo.png"></div>
+     <nav class="navigation">
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="about.html">About us</a></li>
+          <li><a href="services.html">Services</a></li>
+          <li><a href="quote.html">Book a Quote</a></li>
+        </ul>
+     </nav>
+    </header>
+    
+<div class="banner">
+    <img src="Images/picture3.jpg" alt="page banner">
+    </div>
+    
+
+<div class="container1">
+<div class="row1">
+        <div class="special-text">
+        <h3>Why do our customers LOVE US?</h3>
+        </div>
+        <div class="container-text">
+        <p1>Our customers love our work because we do it with excellence. We have a motto which is <b>"If I can see it, I can clean it".</b> <br><br>Nothing is left behind. We clean your house like it was ours. We put ourselves in your shoes and do our best to meet your expectations. <br><br> We know how difficult the routine is and having a clean house is wonderful! So count on us to let your house even beautifuler, sparkling and ascent.</p1>
+    </div>
+    </div>
+    </div>
+    
+    
+<div class="container2">
+ <div class="row2">
+        <div class="image">
+        <img src="Images/image1about.png">
+        </div>
+
+        <div class="special-text2">
+        <h3>Book a Free Quote now!</h3>
+            <div class="button"><a href="quote.html">Call now! </a> </div>
+        </div>
+        
+ </div>
+</div>
+
+    
+<div class="testemonials">
+        <h2>What people think about us</h2>
+    
+        <p>"For so long I was looking for someone to clean my house the way I do, and I never thought I would find it, until I met the Ligia Ligeira company."
+        </p>
+</div>
+
+      <div class="flex-container">
+      <div><img src="Images/icon1.png"></div>
+      <div><img src="Images/icon2.png"></div>
+      <div><img src="Images/icon3.png"></div>
+      <div><img src="Images/icon4.png"></div>
+      <div><img src="Images/icon5.png"></div>
+      <div><img src="Images/icon6.png"></div>
+</div> 
+
+    
+<div class="booknow">
+    <div class="special-text3">
+      <h3>Book a Free Quote now!</h3>
+      <div class="button"><a href="quote.html">Call now! </a> </div>
+</div>
+</div>
+        
+    
+</body>
+</html>
